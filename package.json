@@ -7,8 +7,10 @@
     "build": "uglifyjs src/titleEffect.jquery.js --output dist/titleEffect.jquery.min.js --compress  --comments"
   },
   "keywords": [
-    "title",
-    "toggler"
+    "titleEffect",
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "titleEffect-jquery"
   ],
   "author": "github.com/mahmudz",
   "license": "ISC",
