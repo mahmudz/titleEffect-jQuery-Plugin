@@ -1,5 +1,5 @@
 {
-  "name": "titleEffect-jquery",
+  "name": "titleeffect-jquery",
   "version": "1.0.0",
   "description": "Lightweight jQuery plugin to give little effect of your webpage title.",
   "main": "src/titleEffect.jquery.js",
