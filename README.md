@@ -1,0 +1,1 @@
+"# titleEffect-jQuery-Plugin" 

@@ -1,0 +1,23 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <h4 id="slider">Sample Text</h4>
+    <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+    <script src="../src/titleEffect.jquery.js"></script>
+    <script>
+        $(document).ready(function(){
+            $.titleEffect({
+                delay: 1000,
+                effect: 'blink',
+                separator: ',',
+                titles: [
+                    'JavaScript | Array.join() Method',
+                ]
+            });
+        });
+    </script>
+</body>
+</html>
