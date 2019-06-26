@@ -4,12 +4,15 @@
   "description": "Lightweight jQuery plugin to give little effect of your webpage title.",
   "main": "src/titleEffect.jquery.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "uglifyjs src/titleEffect.jquery.js --output dist/titleEffect.jquery.min.js --compress  --comments"
   },
   "keywords": [
     "title",
     "toggler"
   ],
   "author": "github.com/mahmudz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "uglifyjs": "^2.4.11"
+  }
 }
