@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://img.shields.io/npm/dt/titleeffect-jquery.svg?style=for-the-badge">
-    <img src="https://img.shields.io/github/issues/mahmudz/titleEffect-jQuery-Plugin?for-the-badge">
-    <img src="https://img.shields.io/github/stars/mahmudz/titleEffect-jQuery-Plugin?for-the-badge">
+    <img src="https://img.shields.io/github/issues/mahmudz/titleEffect-jQuery-Plugin?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/mahmudz/titleEffect-jQuery-Plugin?style=for-the-badge">
 </p>
 
 ## TitleEffect is a jQuery plugin to create impressive document titles that make it simple to animate the title text in the browser tab.
